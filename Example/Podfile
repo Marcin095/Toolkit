@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Toolkit_Example' do
+  pod 'Toolkit', :path => '../'
+
+  target 'Toolkit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
