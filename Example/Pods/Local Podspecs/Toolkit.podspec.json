@@ -1,0 +1,22 @@
+{
+  "name": "Toolkit",
+  "version": "0.1.0",
+  "summary": "A short description of Toolkit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Marcin Kaliniak/Toolkit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Marcin Kaliniak": "marcin.kaliniak@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Marcin Kaliniak/Toolkit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Toolkit/Classes/**/*"
+}

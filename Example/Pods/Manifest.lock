@@ -1,0 +1,16 @@
+PODS:
+  - Toolkit (0.1.0)
+
+DEPENDENCIES:
+  - Toolkit (from `../`)
+
+EXTERNAL SOURCES:
+  Toolkit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Toolkit: a1c5b1689a3a47816a784dd16badbddc456a139d
+
+PODFILE CHECKSUM: 0c4db34f9f992027079c5ab87f1bd820575ce498
+
+COCOAPODS: 1.8.4
